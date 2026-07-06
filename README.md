@@ -15,4 +15,6 @@ Koodi järjestää automatorin valikkoon aiheet siinä järjestyksessä, että y
 Mikäli sessio on alle 3min tai yli 6 tuntia se automaattisesti poistaa session, estääkseen vahingossaa päällee jääneet sessiot sekä liian lyhyet sessiot
 
 Kun sessiot tallentuu tietokantaa se näyttää tältä:
+
+
 <img width="577" height="897" alt="Näyttökuva 2026-07-06 kello 12 27 15" src="https://github.com/user-attachments/assets/ea10e58b-4b65-4150-80dd-0f57f8799315" />
